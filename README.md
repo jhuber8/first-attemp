@@ -1,2 +1,0 @@
-# prework
-CNM STEMulus Prework
